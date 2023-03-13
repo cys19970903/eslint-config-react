@@ -28,5 +28,6 @@ module.exports = {
 				functions: 'ignore',
 			},
 		],
+		'react/button-has-type': 0
 	},
 };
